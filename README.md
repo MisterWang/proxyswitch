@@ -1,0 +1,2 @@
+# proxyswitch
+SwitchyOmega config
