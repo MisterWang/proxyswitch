@@ -1,0 +1,17 @@
+[SwitchyOmega Conditions]
+@with result
+
+*.content.googleapis.com +shadowsocks
+*.gstatic.com +shadowsocks
+*.ytimg.com +shadowsocks
+*.googlevideo.com +shadowsocks
+*.ggpht.com +shadowsocks
+*.youtube.com +shadowsocks
+*.twimg.com +shadowsocks
+*.twitter.com +shadowsocks
+*.google.com.hk +shadowsocks
+*.google.com +shadowsocks
+*.google.hk +shadowsocks
+*.googleusercontent.com +shadowsocks
+
+* +direct
