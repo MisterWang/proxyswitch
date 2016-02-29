@@ -1,17 +1,28 @@
 [SwitchyOmega Conditions]
 @with result
 
+*.google.com +shadowsocks
+*.googleusercontent.com +shadowsocks
+*.google.com.hk +shadowsocks
 *.content.googleapis.com +shadowsocks
-*.gstatic.com +shadowsocks
-*.ytimg.com +shadowsocks
 *.googlevideo.com +shadowsocks
 *.ggpht.com +shadowsocks
+*.gstatic.com +shadowsocks
+*.translate.googleapis.com +shadowsocks
+*.youtube-nocookie.com +shadowsocks
 *.youtube.com +shadowsocks
-*.twimg.com +shadowsocks
+
+*.s3-ap-northeast-1.amazonaws.com +shadowsocks
+*.atdmt.com +shadowsocks
+*.ytimg.com +shadowsocks
+*.ngrok.com +direct
+*.fbcdn.net +shadowsocks
+*.facebook.com +shadowsocks
+*.bootstrapeden.com +shadowsocks
+*.mediafire.com +shadowsocks
+*.parsedown.org +shadowsocks
 *.twitter.com +shadowsocks
-*.google.com.hk +shadowsocks
-*.google.com +shadowsocks
-*.google.hk +shadowsocks
-*.googleusercontent.com +shadowsocks
+*.tellapart.com +shadowsocks
+*.twimg.com +shadowsocks
 
 * +direct
